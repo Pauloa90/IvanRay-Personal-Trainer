@@ -1,17 +1,10 @@
 body{
 font-family: 'Bebas Neue', cursive, sans-serif;
-font-size: 40px;
+font-size: 30px;
 }
 
-.carousel-inee {
-  height: 100vh;
-  background: url(../images/Ivan7.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.row {
-    background-color: black;
+.img-fluid{
+overflow: hidden;
+width: 100%;
+height: 580px;
 }
