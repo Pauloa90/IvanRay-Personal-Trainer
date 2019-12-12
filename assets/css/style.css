@@ -1,0 +1,16 @@
+body{
+font-family: 'Bebas Neue', cursive;
+font-size: 40px;
+}
+.container-home {
+  height: 100vh;
+  background: url(../images/Ivan7.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+opacity: 50%
+}
