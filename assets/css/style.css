@@ -7,7 +7,7 @@ background-color: pink;
 
 #logo{
     text-align: center;
-    color: rgb(255, 251, 11);
+    color: rgb(255, 255, 255);
     padding-left: 40px;
     font-size: 45px;
     letter-spacing: 3px;
@@ -63,8 +63,22 @@ section {
    
 }
 
-.mission, .mymission {
+.mission .mymission {
     color: #fafafa;
 }
 
 
+#goal {
+    background-color: #c8dfe2;
+}
+
+.card-body {
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+.setgoal {
+    display: inline-table;
+    justify-content: center;
+}
