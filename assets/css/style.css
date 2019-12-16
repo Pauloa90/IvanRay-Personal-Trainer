@@ -1,24 +1,70 @@
+  
 body{
 font-family: 'Bebas Neue', cursive, sans-serif;
 font-size: 30px;
 background-color: pink;
 }
 
+#logo{
+    text-align: center;
+    color: rgb(255, 251, 11);
+    padding-left: 40px;
+    font-size: 45px;
+    letter-spacing: 3px;
+}
+
+
 .img-fluid{
 overflow: hidden;
 width: 100%;
+height: 100vh;
 
 }
 
-.bt {
-    color: #fafafa;
-    background-color: black;
+#car {
+    height: auto;
+}
+ 
+.logo { 
+    background: url("../images/Ivan1.jpg");
+    min-height: 100vh; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
     
+    
+    }
+
+section {
+    overflow: hidden;
 }
 
+.bg-color-aboutme-aboutmep {
+    background-color: #676767
+}
 
-.section2 {
-    overflow: hidden;
+.aboutme {
+ font-weight: 400;
+ font-size:40px;
+ margin-top: 40px;
+ color: #fafafa;
+
+}
+
+.aboutme {
+    font-family: ;
+    font-weight: 350;
+    font-size: 36px;
+    text-align: left;
+    margin-top: 30px;
+   
+}
+
+.mission, .mymission {
+    color: #fafafa;
 }
 
 
