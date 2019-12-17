@@ -2,10 +2,22 @@
 body{
 font-family: 'Bebas Neue', cursive, sans-serif;
 font-size: 30px;
-background-color: pink;
+background-color: rgb(25, 218, 67);
 }
 
-#logo{
+section {
+    overflow: hidden;
+}
+
+
+/*----------NAVBAR---------*/
+
+.navbar-nav {
+    text-align: center;
+}
+
+
+#logo {
     text-align: center;
     color: rgb(255, 255, 255);
     padding-left: 40px;
@@ -13,6 +25,7 @@ background-color: pink;
     letter-spacing: 3px;
 }
 
+/*----------Caroulsel/Section1---------*/
 
 .img-fluid{
 overflow: hidden;
@@ -21,64 +34,90 @@ height: 100vh;
 
 }
 
-#car {
+
+#carimages {
     height: auto;
 }
+
+/*--- Call out for Mobiles ---*/
+
+.callout {
+    height: 50vh;
+    background-color: #d4a5a5;
+}
  
-.logo { 
+/*----- Section 2 - About Me ----*/
+
+.ivanaboutme { 
     background: url("../images/Ivan1.jpg");
     min-height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
+
     
-    
+
+    /*- add a zoom in if possible -*/  
     }
 
-section {
-    overflow: hidden;
+.bg-color-aboutme {
+    background-color: #676767;
+    height: 100vh;
 }
 
-.bg-color-aboutme-aboutmep {
-    background-color: #676767
+.jumbotron{
+    border-radius: 0;
 }
 
-.aboutme {
- font-weight: 400;
- font-size:40px;
- margin-top: 40px;
- color: #fafafa;
-
-}
-
-.aboutme {
-    font-family: ;
+.aboutme{
+    border: 1px solid rgb(228, 115, 23);
+    letter-spacing: 1px;
     font-weight: 350;
     font-size: 36px;
     text-align: left;
     margin-top: 30px;
-   
+
+}
+.missionp{
+    color: rgb(228, 115, 23);
+    text-align: left;
+    right: 10px;
+    letter-spacing: 2px;
 }
 
-.mission .mymission {
-    color: #fafafa;
-}
 
 
-#goal {
-    background-color: #c8dfe2;
+
+.goal {
+    background-color: #584137;
 }
 
 .card-body {
     text-align: center;
-    padding-top: 10px;
+    padding: 30px;
+   
     
 }
 
 .setgoal {
     display: inline-table;
     justify-content: center;
+}
+
+.card {
+    background-color: #fdfdfd;
+    border-radius: 2.5%;
+  
+    margin: 15% auto;
+    padding: 10px;
+    align-items: center;
+    z-index: 2;
+    display: block;
+    opacity: 0.8;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+}
+
+.card:hover {
+    opacity: 1;
 }
