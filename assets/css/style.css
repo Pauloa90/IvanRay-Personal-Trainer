@@ -36,7 +36,14 @@ height: 100vh;
 
 
 #carimages {
+    height: 90vh;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    #carimages{
     height: auto;
+}
 }
 
 /*----------Call out for Mobiles --------*/
@@ -89,12 +96,14 @@ height: 100vh;
 
 #goal {
     background-color: #e0cec6;
+   
+   
 }
 
 .card-body {
     text-align: center;
-    padding: 30px;
-   
+    padding: 0;
+    margin: 0;
     
 }
 
@@ -117,7 +126,7 @@ height: 100vh;
     opacity: 1;
 }
 
-
+/*---------- Section 4 - Contact -------*/
 .bg{
     background: url('../images/Ivan4.jpg') no-repeat;
     width: 100%;
