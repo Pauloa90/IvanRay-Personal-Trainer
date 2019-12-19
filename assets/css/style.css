@@ -3,11 +3,14 @@ html {
 }
 
 body{
-font-family: 'Bebas Neue', cursive, sans-serif;
+font-family: 'Oswald', cursive, sans-serif;
 font-size: 30px;
 background-color: rgb(25, 218, 67);
 }
 
+.navbar {
+    font-family: 'Bebas Neue';
+}
 section {
     overflow: hidden;
 }
@@ -22,7 +25,6 @@ section {
 
 #logo {
     text-align: center;
-    color: rgb(255, 255, 255);
     padding-left: 40px;
     font-size: 45px;
     letter-spacing: 3px;
@@ -43,7 +45,7 @@ height: 100vh;
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 960px) {
     #carimages{
     height: auto;
 }
@@ -53,9 +55,20 @@ height: 100vh;
 
 .callout {
     height: 50vh;
-    background-color: #d4a5a5;
+    background-color: #ffc107;
+    font-family: 'Bebas Neue';
+    text-align: center;
+    
 }
- 
+.callout p {
+    margin-top: 4rem;
+    color: gray;
+    font-family: 'Oswald';
+}
+
+.mobilebutton {
+    margin-top: 2rem;
+}
 /*---------- Section 2 - About Me -------*/
 
 .ivanaboutme { 
@@ -72,6 +85,7 @@ height: 100vh;
 .bg-color-aboutme {
     background-color: #676767;
     height: 100vh;
+ 
 }
 
 .jumbotron{
@@ -79,41 +93,87 @@ height: 100vh;
 }
 
 .aboutme{
-    border: 1px solid rgb(228, 115, 23);
+    
     letter-spacing: 1px;
     font-weight: 350;
     font-size: 36px;
     text-align: left;
-    margin-top: 30px;
-
+    margin-top: 10px;
+    color: #fafafa;
+   
+    
 }
-.missionp{
-    color: rgb(228, 115, 23);
+
+.aboutmeh{
+    color: #ffc107;
+    font-family: 'Bebas Neue';
+    
+    
+    
+}
+ hr{
+    background-color: #ffc107;
+    margin-right: 50%;
+}
+
+.missionh{
+    color:#ffc107;
     text-align: left;
     right: 10px;
     letter-spacing: 2px;
+    font-family: 'Bebas Neue';
+}
+
+.mission{
+    
+    letter-spacing: 1px;
+    font-weight: 350;
+    font-size: 36px;
+    text-align: left;
+    margin-top: 10px;
+    color: #fafafa;
 }
 
 /*---------- Section 3 - Set your goal -------*/
 
 
 #goal {
-    background-color: #e0cec6;
-   
+    background-color: #ffffff;
    
 }
 
+
+
+#goal h1, p {
+    color: #fafafa;
+}
 .card-body {
     text-align: center;
     padding: 0;
-    margin: 0;
+    
     
 }
 
+.card-title {
+    font-family: 'Bebas Neue';
+    font-weight: 500;
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    margin-top: 2%;
+
+}
+.card-text {
+    color: #2b2b2a;
+    font-weight: 300;
+    margin-top: 2%;
+    font-size: 1.25rem;
+}
+
+
 .card {
-    background-color: #fdfdfd;
+    background-color: #ccbc87;
     border-radius: 2.5%;
-  
+    
     margin: 15% auto;
     padding: 10px;
     align-items: center;
@@ -129,13 +189,19 @@ height: 100vh;
     opacity: 1;
 }
 
-.card-title {
-    font-size: 1rem;
+#goal .tra p {
+    color: rgb(236, 195, 82);
 }
 
-.card-title{
-    font-size: 1rem;
+@media only screen and (max-width: 600px) {
+    .card {
+    opacity: 1;
+    }
 }
+
+
+
+
 /*---------- Section 4 - Contact -------*/
 .bg{
     background: url('../images/Ivan4.jpg') no-repeat;
@@ -149,15 +215,18 @@ height: 100vh;
 
 .form-container{
     
-    position:eabsolute;
+    position:relative;
     background: rgb(255, 255, 255);
-    
+    margin-top: 75px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px #000; 
-    clear: both;
   
-
 }
+
+.form-group {
+    margin: 0;
+}
+
 
 .form-container:hover{
     opacity: 1;
@@ -191,3 +260,61 @@ height: 100vh;
         position: center;
     }
 }
+
+#contact label {
+    font-size: 1rem;
+}
+
+
+/*---------- Footer -------*/
+
+#footer {
+ background:  #3f3e3e;
+ padding: 0 0 30px 0;
+ color: #eee;
+ font-size: 14px;
+}
+
+#footer .footer-top {
+ background:  #676767;
+ padding: 60px 0 30px 0;
+}
+
+#footer .footer-top .footer-info {
+ margin-bottom: 50px;
+}
+
+#footer .footer-top .footer-info h3 {
+ font-size: 60px;
+ color: rgb(102, 63, 179);
+
+} 
+
+
+
+
+#footer .footer-top .footer-links ul a:hover{
+ color: #ffffff;
+}
+
+#footer .footer-top .footer-contact {
+ margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-contact p {
+ line-height: 26px;
+}
+
+#footer .footer-top .footer-newsletter {
+ margin-bottom: 30px;
+}
+
+
+
+
+
+#footer .copyright {
+ text-align: center;
+ padding-top: 30px;
+}
+
