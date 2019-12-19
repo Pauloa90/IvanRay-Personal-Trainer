@@ -159,7 +159,7 @@ height: 100vh;
     font-weight: 500;
     font-size: 1.25rem;
     letter-spacing: 1px;
-    margin-top: 2%;
+    margin-top: 20%;
 
 }
 .card-text {
@@ -270,51 +270,65 @@ height: 100vh;
 
 #footer {
  background:  #3f3e3e;
- padding: 0 0 30px 0;
+ padding: 0 0 50px 0;
  color: #eee;
  font-size: 14px;
+ font-family: 'Bebas Neue'
 }
-
+#footer p {
+    color: rgb(248, 248, 248);
+    line-height: 25px;
+    letter-spacing: 2px;
+    
+}
 #footer .footer-top {
  background:  #676767;
- padding: 60px 0 30px 0;
+ padding: 80px;
 }
 
-#footer .footer-top .footer-info {
- margin-bottom: 50px;
-}
 
-#footer .footer-top .footer-info h3 {
- font-size: 60px;
- color: rgb(102, 63, 179);
+
+#footer h3, h2 {
+
+color: #ffc107;
+margin: 0;
+padding: 0;
 
 } 
 
+#footer h2 {
+font-size: 18px;
+} 
 
-
-
-#footer .footer-top .footer-links ul a:hover{
- color: #ffffff;
+#footer .footer-links ul a:hover{
+ color: #ffc107;
+}
+#footer .footer-links ul a{
+    color: #fafafa;
 }
 
-#footer .footer-top .footer-contact {
- margin-bottom: 30px;
+#footer .footer-links h2:before {
+    content: '|';
+    color: #ffc107;
+    padding-right: 10px;
+}
+#footer .footer-links ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
-#footer .footer-top .footer-contact p {
- line-height: 26px;
+#footer .footer-links ul li {
+    border-bottom: 1px solid #ffc107;
+    line-height: 40px;
 }
-
-#footer .footer-top .footer-newsletter {
- margin-bottom: 30px;
-}
-
-
-
-
-
 #footer .copyright {
  text-align: center;
- padding-top: 30px;
+ padding-top: 4rem;
 }
 
+#footer hr{
+    margin-bottom: 2rem;
+    margin-top: 0;
+   
+}
