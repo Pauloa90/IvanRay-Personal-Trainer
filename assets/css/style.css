@@ -143,15 +143,13 @@ height: 100vh;
 }
 
 
-
 #goal h1, p {
     color: #fafafa;
 }
 .card-body {
     text-align: center;
     padding: 0;
-    
-    
+        
 }
 
 .card-title {
@@ -160,8 +158,10 @@ height: 100vh;
     font-size: 1.25rem;
     letter-spacing: 1px;
     margin-top: 20%;
-
+    
 }
+
+
 .card-text {
     color: #2b2b2a;
     font-weight: 300;
@@ -169,11 +169,14 @@ height: 100vh;
     font-size: 1.25rem;
 }
 
+#goal a {
+    text-decoration: none;
+    color: inherit;
+}
 
 .card {
     background-color: #ccbc87;
     border-radius: 2.5%;
-    
     margin: 15% auto;
     padding: 10px;
     align-items: center;
@@ -270,11 +273,11 @@ height: 100vh;
 
 #footer {
  background:  #3f3e3e;
- padding: 0 0 50px 0;
- color: #eee;
+ padding: 0 0 20px 0;
  font-size: 14px;
  font-family: 'Bebas Neue'
 }
+
 #footer p {
     color: rgb(248, 248, 248);
     line-height: 25px;
@@ -283,7 +286,7 @@ height: 100vh;
 }
 #footer .footer-top {
  background:  #676767;
- padding: 80px;
+ padding: 40px;
 }
 
 
@@ -293,6 +296,7 @@ height: 100vh;
 color: #ffc107;
 margin: 0;
 padding: 0;
+margin-top: 30px;
 
 } 
 
@@ -300,18 +304,20 @@ padding: 0;
 font-size: 18px;
 } 
 
+#footer p {
+    margin-top:20px;
+}
+
 #footer .footer-links ul a:hover{
  color: #ffc107;
+ text-decoration: none;
 }
 #footer .footer-links ul a{
     color: #fafafa;
+    list-style: none;
 }
 
-#footer .footer-links h2:before {
-    content: '|';
-    color: #ffc107;
-    padding-right: 10px;
-}
+
 #footer .footer-links ul {
     margin: 0;
     padding: 0;
@@ -319,9 +325,10 @@ font-size: 18px;
 }
 
 #footer .footer-links ul li {
-    border-bottom: 1px solid #ffc107;
+    border-bottom: 1px solid #c9c3b4;
     line-height: 40px;
 }
+
 #footer .copyright {
  text-align: center;
  padding-top: 4rem;
@@ -331,4 +338,32 @@ font-size: 18px;
     margin-bottom: 2rem;
     margin-top: 0;
    
+}
+
+#footer .footer-social a {
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+#footer .footer-social a i {
+    font-size: 20px;
+    color: #ffc107;
+    padding: 10px 12px;
+    opacity: 0.8;
+}
+
+#footer .footer-social a i:hover{
+    opacity: 1;
+    
+    color: #ffee07;
+}
+
+@media only screen and (max-width: 600px) {
+    #footer .footer-social a i{
+    opacity: 1;
+    color: #ffee07;
+    }
 }
