@@ -367,3 +367,7 @@ font-size: 18px;
     color: #ffee07;
     }
 }
+
+.text-muted .photos {
+    color: pink;
+}
