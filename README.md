@@ -89,30 +89,30 @@ Contact:    kris81dub@gmail.com
 The content on the website was written by me, apart from one text mentioned below on section "Set your goal".
 
 ### Cards Content - Set your goal
-  Fat Loss<br/>
+  #### Fat Loss<br/>
   Photo by Shashank Shekhar on [Unsplash](https://unsplash.com/)<br/>
   [Video link](https://www.youtube.com/watch?v=Yz7Ofr9z1co)- How to Lose Fat the Right Way (MEN VS WOMEN!)<br/>
   Channel: ATHLEAN-X™<br/>
 
 
-  Muscle Gain<br/>
+  #### Muscle Gain<br/>
   Photo by Alora Griffiths on [Unsplash](https://unsplash.com/) <br/>
   [Video link](https://www.youtube.com/watch?v=3tRdgFC0FhA)- 5 Proven Ways to Build Muscle (5x Faster)<br/>
   Channel: Gravity Transformation - Fat Loss Experts<br/>
 
-  Sports / Performance<br/>
+  #### Sports / Performance<br/>
   Photo by Olga Guryanova on [Unsplash](https://unsplash.com/)- <br/>
   [Video link](https://www.youtube.com/watch?v=brPZoBC6abY) - Sport Performance Pillars | Exercise Classification & Selection | JTSstrength.com<br/>
   Channel: Juggernaut Training Systems<br/>
 
-  Health Longevity <br/>
+  #### Health Longevity <br/>
   Text wikipedia - "A 2012 study found that even modest amounts of leisure time physical exercise can extend life expectancy 
   by as much as 4.5 years."<br/>
   Photo by Calder B on Unsplash<br/>
   [Video link](https://www.youtube.com/watch?v=USNkx1i-Prs)- How to Live Longer | Blue Zones & Longevity | Doctor Mike<br/>
   Channel: Doctor Mike<br/>
 
-  Other<br/>
+  #### Other<br/>
   Photo by Pablò on [Unsplash](https://unsplash.com/) <br/>
   [Video link](https://www.youtube.com/watch?v=eAght6w3kMM)- How to Design Workout for your Specific Fitness Goal<br/>
   Channel: Kaa Yaa<br/>
