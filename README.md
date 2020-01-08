@@ -5,15 +5,15 @@ Ivan Ray is one of the best Personal Trainers in Dublin. He has started his care
 hasn’t got a website where he can reach more clients. The project comes up as a possible new Ivan’s website where
 his prospective clients can get in contact with him and get to know more about Ivan and his methodology.
 
-##User eXperience Project
+## User eXperience Project
 Ivan as a professional can expect from this website reach more clients and clients can expect get in contact with Ivan
 easily and also get to know Ivan’s methodology.
 
-##Strategy
+## Strategy
 My strategy from scratch is to keep the website simple but functional.
 Easy to access with only one page where users don’t have to open new tags in order to see something placed on the
 website.
-##Structure
+## Structure
 
 [Ivan Ray wireframe](https://)
 [About wireframe](https://)
@@ -21,26 +21,26 @@ website.
 [Contact wireframe](https://)
 
 
-##Skeleton
+## Skeleton
 The skeleton of the project was designed giving a specific Id to each section in order to quick acess each one of
 them.
 
-###Section 1 – Home
+### Section 1 – Home
 Here the Section provides a carousel with 3 pictures giving the idea of movement and activity.
 
-###Section 2 – About me
+### Section 2 – About me
 In this section the prospective client will get to know bit more of Ivan and what is Ivan’s intention.
 Be sure which goal they have to set for regarding the client and client’s goals.
 
-###Section 3 – Set your goal
+### Section 3 – Set your goal
 Here the prospective clients will have an idea of where they have to start from and from there they can in contact
 with Ivan Ray in order to set a fitness plan.
 
-###Section 4 – Contact
+### Section 4 – Contact
 From this section prospective clients will have the chance to fill up a form and wait for Ivan to get in contact with
 them. Basic information will be required from the potential clients.
 
-##Surface
+## Surface
 As mentioned previously, a carousel was used on the main and first section to give the idea of movement and
 activity. For mobiles a call out will show up skipping straight to contact me section for those who already know Ivan
 Ray.
@@ -50,10 +50,10 @@ This webpage used the scrollSpay and “smooth scrolling” to give a nice effec
 Also the Navbar will be collapsed when the screen changes the size to medium or small size. That will make the
 Navbar look modern and a clean design to the site.
 
-##Features to be implemented
+## Features to be implemented
 Ivan hasn’t got video where he will explain types of work outs for specific goals. For now videos related to the subject were linked to the cards bringing the potential clients to hear something about every topic. 
 
-##Testing
+## Testing
 
 Prospective clients trying to find a good personal trainer in Dublin will access the site through Internet search engines.
 First, they will see a navigation bar at the top, where you can take them to any section of the site, and below a 
@@ -78,21 +78,25 @@ To ensure that the site is responsive, the site has been tested on various brows
 and Internet Explore, and to ensure that it works on mobile, the site has been tested in the "inspection" sections 
 of the Chrome browser.
 
-##Deployment
+## Deployment
 In order to keep the file updated correctly every time that it is committed, the name of the HTML file is index.html. This site is hosted using GitHub pages.
 
-##Credits
+## Credits
 All the Ivans picures were taken by Krzysztof Kris Szymkowiak
 Contact:    kris81dub@gmail.com
             +353857555361
 
 The content on the website was written by me, apart from one text mentioned below on section "Set your goal".
 
-###Cards Content - Set your goal
+### Cards Content - Set your goal
 Fat Loss
+
 Photo by Shashank Shekhar on [Unsplash](https://unsplash.com/) 
+
 [Video link](https://www.youtube.com/watch?v=Yz7Ofr9z1co)
+
 How to Lose Fat the Right Way (MEN VS WOMEN!)
+
 Channel: ATHLEAN-X™
 
 
