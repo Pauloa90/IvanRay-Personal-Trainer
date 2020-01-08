@@ -101,7 +101,8 @@ The content on the website was written by me, apart from one text mentioned belo
   Channel: Gravity Transformation - Fat Loss Experts<br/>
 
   Sports / Performance<br/>
-  Photo by Olga Guryanova on [Unsplash](https://unsplash.com/)- [Video link](https://www.youtube.com/watch?v=brPZoBC6abY)<br/>
+  Photo by Olga Guryanova on [Unsplash](https://unsplash.com/)- <br/>
+  [Video link](https://www.youtube.com/watch?v=brPZoBC6abY) - Sport Performance Pillars | Exercise Classification & Selection | JTSstrength.com<br/>
   Channel: Juggernaut Training Systems<br/>
 
   Health Longevity <br/>
