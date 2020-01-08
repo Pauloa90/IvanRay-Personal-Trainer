@@ -89,27 +89,24 @@ Contact:    kris81dub@gmail.com
 The content on the website was written by me, apart from one text mentioned below on section "Set your goal".
 
 ### Cards Content - Set your goal
-Fat Loss
-
-Photo by Shashank Shekhar on [Unsplash](https://unsplash.com/) 
-
-[Video link](https://www.youtube.com/watch?v=Yz7Ofr9z1co)
-
-How to Lose Fat the Right Way (MEN VS WOMEN!)
+Fat Loss<br/>
+Photo by Shashank Shekhar on [Unsplash](https://unsplash.com/) <br/>
+[Video link](https://www.youtube.com/watch?v=Yz7Ofr9z1co)<br/>
+How to Lose Fat the Right Way (MEN VS WOMEN!)<br/>
 
 Channel: ATHLEAN-X™
 
 
-Muscle Gain
-Photo by Alora Griffiths on [Unsplash](https://unsplash.com/) 
-[Video link](https://www.youtube.com/watch?v=3tRdgFC0FhA)
-5 Proven Ways to Build Muscle (5x Faster)
-Channel: Gravity Transformation - Fat Loss Experts
+  Muscle Gain<br/>
+  Photo by Alora Griffiths on [Unsplash](https://unsplash.com/) <br/>
+  [Video link](https://www.youtube.com/watch?v=3tRdgFC0FhA)<br/>
+  5 Proven Ways to Build Muscle (5x Faster)<br/>
+  Channel: Gravity Transformation - Fat Loss Experts<br/>
 
-Sports / Performance
-Photo by Olga Guryanova on [Unsplash](https://unsplash.com/) 
-[Video link](https://www.youtube.com/watch?v=brPZoBC6abY)
-Channel: Juggernaut Training Systems
+  Sports / Performance
+  Photo by Olga Guryanova on [Unsplash](https://unsplash.com/) 
+  [Video link](https://www.youtube.com/watch?v=brPZoBC6abY)
+  Channel: Juggernaut Training Systems
 
 Health Longevity 
 Text wikipedia - "A 2012 study found that even modest amounts of leisure time physical exercise can extend life expectancy by as much as 4.5 years."
