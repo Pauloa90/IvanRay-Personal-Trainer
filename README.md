@@ -15,10 +15,10 @@ Easy to access with only one page where users don’t have to open new tags in o
 website.
 ## Structure
 
-[Ivan Ray wireframe](https://)
-[About wireframe](https://)
-[Set your goal wireframe](https://)
-[Contact wireframe](https://)
+[Ivan Ray wireframe](https://) <br/>
+[About wireframe](https://) <br/>
+[Set your goal wireframe](https://) <br/>
+[Contact wireframe](https://) <br/>
 
 
 ## Skeleton
