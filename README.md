@@ -15,10 +15,10 @@ Easy to access with only one page where users don’t have to open new tags in o
 website.
 ## Structure
 
-[Ivan Ray wireframe](https://) <br/>
-[About wireframe](https://) <br/>
-[Set your goal wireframe](https://) <br/>
-[Contact wireframe](https://) <br/>
+[Ivan Ray/About Me wireframe](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/wireframes/home.jpeg) <br/>
+
+[Set your goal/Contact wireframe](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/wireframes/contact.jpeg) <br/>
+
 
 
 ## Skeleton
