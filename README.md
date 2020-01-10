@@ -9,6 +9,15 @@ his prospective clients can get in contact with him and get to know more about I
 Ivan as a professional can expect from this website reach more clients and clients can expect get in contact with Ivan
 easily and also get to know Ivan’s methodology.
 
+## Screenshots
+
+Please check the links to see a screenshot of each section.
+
+[Home](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Home.PNG)
+[About me](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/About.PNG)
+[Set your goal](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Set.PNG)
+[Contact me](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Contact.PNG)
+
 ## Strategy
 My strategy from scratch is to keep the website simple but functional.
 Easy to access with only one page where users don’t have to open new tags in order to see something placed on the
