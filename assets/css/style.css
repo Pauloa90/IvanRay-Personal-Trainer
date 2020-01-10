@@ -10,7 +10,8 @@ background-color: rgb(0, 0, 0);
 
 .navbar {
     font-family: 'Bebas Neue';
-    position: relative;
+    
+    
 }
 section {
     overflow: hidden;
@@ -35,24 +36,38 @@ section {
 /*----------Section 1 / Carousel-------*/
 
 .img-fluid{
-overflow: hidden;
-width: 100%;
+    overflow: hidden;
+    width: 100%;
 
 }
 
+#mycarousel{
+   
+    font-family: 'Bebas Neue';
+
+}
 
 #carimages1, #carimages2, #carimages3{
-    height: 87vh;
+    
+    margin-top: 7vh;
+    position: relative;
+    max-height: 93vh;
+    top:.9em;
     
     
 }
 
-@media only screen and (max-width: 940px) {
+@media only screen and (max-width: 400px) {
     #carimages1, #carimages2, #carimages3{
     height: auto;
+    top:.9em;
+    position: relative;
+    min-height: 44vh;
 }
 
 }
+
+
 
 /*----------Call out for Mobiles --------*/
 
@@ -143,6 +158,7 @@ width: 100%;
 
 .jumbotron{
     border-radius: 0;
+    
 }
 
 .aboutme{
@@ -152,7 +168,7 @@ width: 100%;
     font-size: 36px;
     text-align: left;
     color: #fafafa;
-    margin: .9rem;
+    margin: 2rem;
     
    
     
@@ -191,7 +207,8 @@ width: 100%;
     font-size: 36px;
     text-align: left;
     color: #fafafa;
-    margin: .9rem;
+    margin: 2rem;
+
     
 }
 
@@ -272,8 +289,10 @@ width: 100%;
 .bg{
     background: url('../images/Ivan4.jpg') no-repeat;
     width: 100%;
-    height: 100%;
+    height: auto;
     background-size: 100%;
+    background-attachment: fixed;
+
 
 
 
@@ -307,7 +326,8 @@ width: 100%;
     .bg {
         background: url('../images/Ivan2.jpg') no-repeat;
         width: 100%;
-       
+        background-attachment: fixed;
+
         background-size: 100%;
       
     }
@@ -397,7 +417,7 @@ font-size: 18px;
 
 #footer .copyright {
  text-align: center;
- padding-top: 4rem;
+ padding-top: 1rem;
 }
 
 #footer hr{
