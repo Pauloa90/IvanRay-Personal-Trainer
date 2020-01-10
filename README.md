@@ -9,9 +9,11 @@ his prospective clients can get in contact with him and get to know more about I
 Ivan as a professional can expect from this website reach more clients and clients can expect get in contact with Ivan
 easily and also get to know Ivan’s methodology.
 
-## Screenshots
+## Demo
 
 Please check the links to see a screenshot of each section.
+
+A live demo can be found [here](https://pauloa90.github.io/IvanRay-Personal-Trainer/)
 
 [Home](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Home.PNG)
 
@@ -26,6 +28,7 @@ Please check the links to see a screenshot of each section.
 My strategy from scratch is to keep the website simple but functional.
 Easy to access with only one page where users don’t have to open new tags in order to see something placed on the
 website.
+
 ## Structure
 
 [Ivan Ray/About Me - wireframe](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/wireframes/home.jpeg) <br/>
@@ -92,11 +95,14 @@ and Internet Explore, and to ensure that it works on mobile, the site has been t
 of the Chrome browser.
 
 ## Deployment
-In order to keep the file updated correctly every time that it is committed, the name of the HTML file is index.html. This site is hosted using GitHub pages.
+In order to keep the file updated correctly every time that it is committed, the name of the HTML file is index.html. This site is hosted using GitHub pages built from master Branch.
+
 
 ## Credits
 All the Ivans picures were taken by Krzysztof Kris Szymkowiak
+
 Contact:    kris81dub@gmail.com
+
             +353857555361
 
 The content on the website was written by me, apart from one text mentioned below on section "Set your goal".
