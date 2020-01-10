@@ -14,9 +14,13 @@ easily and also get to know Ivan’s methodology.
 Please check the links to see a screenshot of each section.
 
 [Home](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Home.PNG)
+
 [About me](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/About.PNG)
+
 [Set your goal](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Set.PNG)
+
 [Contact me](https://github.com/Pauloa90/Ivan-Personal-Trainer/blob/master/assets/screenshots/Contact.PNG)
+
 
 ## Strategy
 My strategy from scratch is to keep the website simple but functional.
