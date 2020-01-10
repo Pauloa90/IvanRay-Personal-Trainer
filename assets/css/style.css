@@ -10,6 +10,7 @@ background-color: rgb(25, 218, 67);
 
 .navbar {
     font-family: 'Bebas Neue';
+    position: relative;
 }
 section {
     overflow: hidden;
@@ -40,19 +41,17 @@ width: 100%;
 }
 
 
-#carimages {
-    height: 100vh;
-    top: 0px;
+#carimages1, #carimages2, #carimages3{
+    height: 87vh;
     
     
 }
 
-
-@media only screen and (max-width: 960px) {
-    #carimages{
+@media only screen and (max-width: 940px) {
+    #carimages1, #carimages2, #carimages3{
     height: auto;
-    top
 }
+
 }
 
 /*----------Call out for Mobiles --------*/
@@ -65,14 +64,12 @@ width: 100%;
     
 }
 .callout p {
-    margin-top: 4rem;
+    margin-top: auto;
     color: gray;
     font-family: 'Oswald';
+    margin: .7rem;
 }
 
-.mobilebutton {
-    margin-top: 2rem;
-}
 /*---------- Section 2 - About Me -------*/
 
 .ivanaboutme { 
@@ -80,11 +77,69 @@ width: 100%;
     min-height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+/*---------- Fixing the image height and making it resposive -------*/
+
+@media only screen and (min-width: 320px) {
+    .ivanaboutme {
+        background-size: 250%;
+    }
+}
+@media only screen and (min-width: 390px) {
+    .ivanaboutme {
+        background-size: 240%;
+    }
+}
+@media only screen and (min-width: 464px) {
+    .ivanaboutme {
+        background-size: 200%;
+    }
+}
+@media only screen and (min-width: 540px) {
+    .ivanaboutme {
+        background-size: 160%;
+    }
+}
+@media only screen and (min-width: 640px) {
+    .ivanaboutme {
+        background-size: 140%;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .ivanaboutme {
+        background-size: 325%;
+    }
+}
+
+@media only screen and (min-width: 837px) {
+    .ivanaboutme {
+        background-size: 190%;
+    }
+}
+@media only screen and (min-width: 995px) {
+    .ivanaboutme {
+        background-size: 340%;
+    }
+}
+@media only screen and (min-width: 1041px) {
+    .ivanaboutme {
+        background-size: 160%;
+    }
+}
+@media only screen and (min-width: 1100px) {
+    .ivanaboutme {
+        background-size: 150%;
+    }
+}
+
 
     
 
     /*- add a zoom in if possible -*/  
-    }
+    
 
 .bg-color-aboutme {
     background-color: #676767;
@@ -99,16 +154,18 @@ width: 100%;
 .aboutme{
     
     letter-spacing: 1px;
-    font-weight: 350;
+    font-weight: 400;
     font-size: 36px;
     text-align: left;
-    margin-top: 10px;
     color: #fafafa;
+    margin: .9rem;
+    
    
     
 }
 .aboutme p{
     font-size: 2.7vh;
+   
 }
 
 .aboutmeh{
@@ -136,11 +193,12 @@ width: 100%;
 .mission{
     
     letter-spacing: 1px;
-    font-weight: 350;
+    font-weight: 400;
     font-size: 36px;
     text-align: left;
-    margin-top: 10px;
     color: #fafafa;
+    margin: .9rem;
+    
 }
 
 /*---------- Section 3 - Set your goal -------*/
@@ -158,7 +216,7 @@ width: 100%;
 .card-body {
     text-align: center;
     padding: 0;
-    height: 16rem;;
+    min-height: 15rem;
         
 }
 
@@ -220,7 +278,7 @@ width: 100%;
 .bg{
     background: url('../images/Ivan4.jpg') no-repeat;
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-size: 100%;
 
 
@@ -229,17 +287,19 @@ width: 100%;
 
 .form-container{
     
-    position:relative;
+  
     background: rgb(255, 255, 255);
     margin-top: 75px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px #000; 
     opacity: .9;
   
+    
+  
 }
 
 .form-group {
-    margin: 0;
+    margin: .1rem;
 }
 
 
@@ -251,9 +311,9 @@ width: 100%;
     .bg {
         background: url('../images/Ivan2.jpg') no-repeat;
         width: 100%;
-        height: 100vh;
+       
         background-size: 100%;
-        position: center;
+      
     }
 }
 
@@ -272,7 +332,7 @@ width: 100%;
         width: 100%;
         height: 100vh;
         background-size: 150%;
-        position: center;
+       
     }
 }
 
