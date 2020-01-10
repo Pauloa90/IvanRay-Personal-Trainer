@@ -5,7 +5,7 @@ html {
 body{
 font-family: 'Oswald', cursive, sans-serif;
 font-size: 30px;
-background-color: rgb(25, 218, 67);
+background-color: rgb(0, 0, 0);
 }
 
 .navbar {
@@ -77,61 +77,55 @@ width: 100%;
     min-height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 200%;
 }
+
+
 
 
 /*---------- Fixing the image height and making it resposive -------*/
-
-@media only screen and (min-width: 320px) {
+@media only screen and (max-width: 1990px) {
     .ivanaboutme {
-        background-size: 250%;
-    }
-}
-@media only screen and (min-width: 390px) {
-    .ivanaboutme {
-        background-size: 240%;
-    }
-}
-@media only screen and (min-width: 464px) {
-    .ivanaboutme {
-        background-size: 200%;
-    }
-}
-@media only screen and (min-width: 540px) {
-    .ivanaboutme {
-        background-size: 160%;
-    }
-}
-@media only screen and (min-width: 640px) {
-    .ivanaboutme {
-        background-size: 140%;
-    }
-}
-@media only screen and (min-width: 768px) {
-    .ivanaboutme {
-        background-size: 325%;
+        background: url("../images/Ivan1.jpg");
+        background-size: 130%;
+        background-repeat: no-repeat;
+        background-position: center;
+       
+        
     }
 }
 
-@media only screen and (min-width: 837px) {
+@media only screen and (max-width: 1500px) {
     .ivanaboutme {
-        background-size: 190%;
-    }
-}
-@media only screen and (min-width: 995px) {
-    .ivanaboutme {
-        background-size: 340%;
-    }
-}
-@media only screen and (min-width: 1041px) {
-    .ivanaboutme {
+        background: url("../images/Ivan1.jpg");
         background-size: 160%;
+        background-repeat: no-repeat;
+        background-position: center;
+       
+        
     }
 }
-@media only screen and (min-width: 1100px) {
+
+
+@media only screen and (max-width: 1100px) {
     .ivanaboutme {
+        background: url("../images/Ivan1.jpg");
+        background-size: 220%;
+        background-repeat: no-repeat;
+        background-position: center;
+       
+        
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .ivanaboutme {
+        background: url("../images/Ivan1.jpg");
         background-size: 150%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+
     }
 }
 
