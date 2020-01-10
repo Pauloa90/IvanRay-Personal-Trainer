@@ -228,33 +228,36 @@
 	<!-- --- Section 4 - Contact --- -->
 
 	<section class="container-fluid bg" id="contact">
-		<form class="form-inline" action="/action_page.php">>
-			
-            <div class="form-group">
-                <label for="fname">First name</label>
-                <input type="text" class="form-control" id="fname" placeholder="First name">
-           
-                <label for="lname">Last name</label>
-                <input type="text" class="form-control" id="lname" placeholder="Last name">
+		<form class="form-container col-xl-5 col-lg-8 col-md-8 col-sm-10">
+			<div class="form-row col-12">
+                <div class="form-group col-12 col-sm-5 col-md-5">
+                    <label for="fname">First name</label>
+                    <input type="text" class="form-control" id="fname" placeholder="First name">
+                </div>
+                <div class="form-group col-12 col-sm-5 col-md-5 ">
+                    <label for="lname">Last name</label>
+                    <input type="text" class="form-control" id="lname" placeholder="Last name">
+                </div>
+			</div>
+            <div class="form-row col-12">
+                <div class="form-group  col-12 col-sm-10 col-md-5">
+					<label for="inputEmail4">Email address</label>
+					<input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                </div>
+                <div class="form-group  col-12 col-sm-10 col-md-5">
+					<label for="number">Phone Number</label>
+					<input type="tel" class="form-control" id="number" placeholder="Phone number">
+                </div>
             </div>
-			
-            <div class="form-group">
-                <label for="inputEmail4">Email address</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
-            </div>
-            <div class="form-group">
-                <label for="number">Phone Number</label>
-                <input type="tel" class="form-control" id="number" placeholder="Phone number">
-            </div>
-            <div class="form-row col-4">
-                <div class="form-group mr-3">
+            <div class="form-row col-12">
+                <div class="form-group col-5 col-md-5">
                     <label for="goal">Gender</label>
                     <select id="goal" class="form-control">
                         <option>Masculine</option>
                         <option>Feminine</option>
                     </select>
                 </div>
-                <div class="form-group">
+                <div class="form-group col-5  col-md-5">
                     <label for="setgoal">Set your goal</label>
                     <select id="setgoal" class="form-control">
                          
@@ -266,14 +269,15 @@
                     </select>
                 </div>
             </div>
-            <div class="form-row">
-                <div class="form-group col-6">
+
+            <div class="form-row col-12">
+                <div class="form-group col-12">
 
                     <label for="exampleFormControlTextarea1">Tell me about your, your plans and your goal.</label>
                     <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
             </div>
-            <button type="submit" class="btn btn-warning my-3">Get Started!</button>
+            <button type="submit" class="btn btn-warning m-3">Get Started!</button>
 		</form>
 	</section>
 
